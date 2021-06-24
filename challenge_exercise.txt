@@ -1,0 +1,11 @@
+Go to: https://berkeley.qualtrics.com
+
+* Once you have logged in with CalNet credentials, you should be redirected to the Qualtrics portal.
+* From here, click "Create New Project" button on your upper right.
+* A "Survey" button should be visible on the next page, under the heading "Projects from Scratch". Click on that. 
+* Then on the lower right, you will see a "get started" button. Click on that as well.
+
+* Go ahead and name your project: "D-lab Challenge Problem" and create a new project. 
+
+
+
