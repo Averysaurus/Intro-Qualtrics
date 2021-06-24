@@ -24,10 +24,10 @@ Go to: https://berkeley.qualtrics.com
 * The questionnaire is available here: https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf
 
 * Click on "+ Add New Question" and select "Matrix Table." 
-* On the left, you will see a dashboard with parameter to adjust your matrix table. Since PANAS uses a 5-point scale, toggle the "Scale Points" value up to 5. 
+* On the left, you will see a dashboard with parameters to adjust your matrix table. Since PANAS uses a 5-point scale, toggle the "Scale Points" value up to 5. 
 * Under "Response Requirements", toggle into the "request response" option.
 * Under "Question Behavior", click on "Statement Randomization" and select "display Answers in random order."
-* Click to the "write question text" to  label your question. 
+* Click to the "write question text" to  label your questions, also click on the answer feilds to edit.  
 
 **** Second Question ****
 
@@ -36,10 +36,10 @@ Go to: https://berkeley.qualtrics.com
 * First we will add a "timer" to hold the participant at the survey question for 30 seconds. 
 
 * Click "+Add new Question" and select "Timing".
-* In the Edit Menu, toggle "Delay showing submit button" and type "30: into the numerical feild. 
+* In the Edit Menu, toggle "Delay showing submit button" and type "30" into the numerical feild. 
 
 
-* On the same "Second Question" Block, create a Text Entry question.
+* On the same "Second Question" Block, create a "Text Entry" question.
 * Click "+Add new Question" in the new block and select the "text entry" option. 
 * Provide participants with a question prompt, hover over "Click to write the question text" and add something like: “Please think about your daily routine under Shelter-in-Place. Write 3-5 sentences describing your daily routine.”
 * In the "Edit Question" Bar to your left, find the "Text Type" menu and select and toggle "Essay Text Box"
@@ -52,7 +52,7 @@ Go to: https://berkeley.qualtrics.com
 
 *** Wrapping up ****
 
-* Preview your survey and check for errors.
+
 * To Randomize the order that the PANAS and writing task is presented to respondents (First and Second question blocks), click the "Survey Flow" Button on the far left on the screen. It looks like two rectangles attached with a line.
 * You should see your questions as rectangles connected like a flowchart, at the botton click "+Add a New Element Here" and select "Randomizer". 
 * On your survey blocks, Click "Move", then drag and drop the block you would like randomized to the participants. 
@@ -60,6 +60,9 @@ Go to: https://berkeley.qualtrics.com
 
 * Click "+Add New Element" at the end of your survey and select the "End of Survey" option. You may customize this from the Survey Flow window.  
 
+** Preview your survey and check for errors.**
+
+Congrats, you did it!! :) 
 
 
 
