@@ -55,7 +55,7 @@ Go to: https://berkeley.qualtrics.com
 
 * To Randomize the order that the PANAS and writing task is presented to respondents (First and Second question blocks), click the "Survey Flow" Button on the far left on the screen. It looks like two rectangles attached with a line.
 * You should see your questions as rectangles connected like a flowchart, at the botton click "+Add a New Element Here" and select "Randomizer". 
-* On your survey blocks, Click "Move", then drag and drop the block you would like randomized to the participants. 
+* On your survey blocks, Click "Move", then drag and drop the blocks you would like randomized to the participants. 
 * Click the "Apply" button in the lower right hand corner. 
 
 * Click "+Add New Element" at the end of your survey and select the "End of Survey" option. You may customize this from the Survey Flow window.  
